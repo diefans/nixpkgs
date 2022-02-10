@@ -33613,6 +33613,10 @@ with pkgs;
   mfc9140cdncupswrapper = callPackage ../misc/cups/drivers/mfc9140cdncupswrapper { };
   mfc9140cdnlpr = callPackage ../misc/cups/drivers/mfc9140cdnlpr { };
 
+  mfc9460cdn = callPackage ../misc/cups/drivers/mfc9460cdn { };
+  mfc9460cdncupswrapper = callPackage ../misc/cups/drivers/mfc9460cdncupswrapper { };
+  mfc9460cdnlpr = callPackage ../misc/cups/drivers/mfc9460cdnlpr { };
+
   samsung-unified-linux-driver_1_00_36 = callPackage ../misc/cups/drivers/samsung/1.00.36 { };
   samsung-unified-linux-driver_1_00_37 = callPackage ../misc/cups/drivers/samsung/1.00.37.nix { };
   samsung-unified-linux-driver_4_00_39 = callPackage ../misc/cups/drivers/samsung/4.00.39 { };

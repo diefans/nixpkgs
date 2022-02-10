@@ -2964,6 +2964,12 @@
     githubId = 15774340;
     name = "Thomas Depierre";
   };
+  diefans = {
+    email = "diefans@gmail.com";
+    github = "diefans";
+    githubId = 513316;
+    name = "Oliver Berger";
+  };
   diegolelis = {
     email = "diego.o.lelis@gmail.com";
     github = "diegolelis";
